@@ -1,0 +1,38 @@
+
+
+.header {
+    margin:0;
+    
+    background-color: aquamarine;
+    width:auto;
+    
+    padding-left: 10px;
+}
+
+.side {
+    margin-top:10px;
+    margin-right:10px;
+    height: 400px;
+    width:216px; 
+    float:left;
+}
+
+
+
+
+
+.main {
+    margin:auto;
+    height: auto;
+    width: auto;;
+    float:left;
+    background-color: aquamarine;
+}
+
+.footer {
+    margin:10px;
+    height:50px;
+    float:left;
+    width:880px;
+    background-color: gray;
+}
