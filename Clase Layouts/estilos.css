@@ -1,39 +1,23 @@
-.container {
-    margin-top:10px;
-    text-align: justify;
-    width: 900px;
-    margin-left:auto;
-    margin-right:auto;
-    height:620px;
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.header {
-    margin:10px;
-    /*height: 100px;*/
-    background-color: rgb(200, 216, 211);
-    width:880px;
-    float:left;
-    padding-left: 10px;
+h1 {
+    color:cadetblue;
 }
 
-.main {
-    margin:10px;
-    height: 400px;
-    width: 650px;;
-    float:left;
+h2 {
+    color:blueviolet;
 }
 
-.side {
-    margin-top:10px;
-    margin-right:10px;
-    height: 400px;
-    width:216px; 
-    float:left;
+h7 {
+    font-size: 11;
 }
 
-.footer {
-    margin:10px;
-    height:50px;
-    float:left;
-    width:880px;
+.lista-paises li li {
+    list-style-type: circle;
+}
+
+.referencias {
+    font-size: 12px;
 }
